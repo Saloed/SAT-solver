@@ -219,11 +219,8 @@ bool Sat_Solver::solve(x new_variable){
 	changes.push_back(local_changes);
 	local_changes.clear();
 	if (!choose_x(new_variable))
-	{
-		undo_change(changes[changes.size() - 1]);
-		changes.pop_back();
-		return false;
-	}
+		new_variable = NULL;
+	else
 	init_var(new_variable);
 	if (solve(new_variable))
 		return true;

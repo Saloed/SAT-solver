@@ -1,8 +1,7 @@
-﻿Сборка начата 10.03.2015 15:12:35.
-     1>Проект "c:\Users\admin\documents\visual studio 2013\Projects\SAT-solver\SAT-solver.vcxproj" в узле 2 (целевые объекты Build).
+﻿Сборка начата 10.03.2015 18:29:16.
+     1>Проект "C:\Users\admin\Documents\Visual Studio 2013\Projects\SAT-solver\SAT-solver.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Sat_Solver.cpp solution.cpp
-         solution.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Sat_Solver.cpp
          Sat_Solver.cpp
      1>c:\users\admin\documents\visual studio 2013\projects\sat-solver\sat_solver.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
      1>c:\users\admin\documents\visual studio 2013\projects\sat-solver\sat_solver.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
@@ -17,15 +16,14 @@
      1>c:\users\admin\documents\visual studio 2013\projects\sat-solver\sat_solver.cpp(186): warning C4018: <: несоответствие типов со знаком и без знака
      1>c:\users\admin\documents\visual studio 2013\projects\sat-solver\sat_solver.cpp(196): warning C4018: <: несоответствие типов со знаком и без знака
      1>c:\users\admin\documents\visual studio 2013\projects\sat-solver\sat_solver.cpp(201): warning C4018: <: несоответствие типов со знаком и без знака
-     1>c:\users\admin\documents\visual studio 2013\projects\sat-solver\sat_solver.cpp(242): warning C4018: <: несоответствие типов со знаком и без знака
-     1>c:\users\admin\documents\visual studio 2013\projects\sat-solver\sat_solver.cpp(330): warning C4018: <: несоответствие типов со знаком и без знака
-         Создание кода...
+     1>c:\users\admin\documents\visual studio 2013\projects\sat-solver\sat_solver.cpp(239): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\admin\documents\visual studio 2013\projects\sat-solver\sat_solver.cpp(327): warning C4018: <: несоответствие типов со знаком и без знака
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\admin\documents\visual studio 2013\Projects\SAT-solver\Debug\SAT-solver.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\admin\documents\visual studio 2013\Projects\SAT-solver\Debug\SAT-solver.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\admin\documents\visual studio 2013\Projects\SAT-solver\Debug\SAT-solver.lib" /MACHINE:X86 Debug\Sat_Solver.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\Visual Studio 2013\Projects\SAT-solver\Debug\SAT-solver.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Documents\Visual Studio 2013\Projects\SAT-solver\Debug\SAT-solver.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\Visual Studio 2013\Projects\SAT-solver\Debug\SAT-solver.lib" /MACHINE:X86 Debug\Sat_Solver.obj
          Debug\solution.obj
-         SAT-solver.vcxproj -> c:\users\admin\documents\visual studio 2013\Projects\SAT-solver\Debug\SAT-solver.exe
-     1>Сборка проекта "c:\Users\admin\documents\visual studio 2013\Projects\SAT-solver\SAT-solver.vcxproj" завершена (целевые объекты Build).
+         SAT-solver.vcxproj -> C:\Users\admin\Documents\Visual Studio 2013\Projects\SAT-solver\Debug\SAT-solver.exe
+     1>Сборка проекта "C:\Users\admin\Documents\Visual Studio 2013\Projects\SAT-solver\SAT-solver.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:03.21
+Затраченное время: 00:00:02.49
